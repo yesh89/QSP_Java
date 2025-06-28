@@ -1,5 +1,6 @@
 package com.arr;
 
+//Derived Array Or Object Array
 public class A4 {
 	public static void main(String[] args) {
 //		A4[] objA = new A4[3];
