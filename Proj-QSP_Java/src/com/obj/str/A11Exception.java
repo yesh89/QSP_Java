@@ -11,7 +11,7 @@ public class A11Exception {
 			System.out.println("Inside catch block");
 			ae.getCause();
 			System.out.println(ae.getMessage());
-			ae.getStackTrace();
+			 ae.getStackTrace();
 		} finally {
 			System.out.println("test exception finally block");
 		}
